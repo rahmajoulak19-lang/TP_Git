@@ -1,2 +1,3 @@
 Bonjour la vie !
-Merci de passer trés vite.
+Merci de passer très vite.
+Bonjour le monde !
